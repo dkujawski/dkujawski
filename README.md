@@ -1,7 +1,11 @@
 - 👋 Hi, I’m Dave Kujawski @dkujawski
-- 👀 I’m interested in building digital pipelines and working to solve problems that seem impossible
-- 🌱 I’m currently building tools to improve development workflows around cloud infrastructure
-- 💞️ I’m looking to collaborate on opensource projects written in Go and Python
+
+Senior Cloud & Infrastructure Engineer with 15+ years of experience designing scalable systems, 
+developer tooling, and CI/CD pipelines across cloud, SaaS, and high-performance computing environments. 
+Strong contributor to open-source platforms including HashiCorp's Terraform AWS Provider. 
+Recent focus on developer productivity, TypeScript API development and GitHub Actions automation. 
+Known for cross-functional collaboration, technical mentoring, and building reliable, elegant engineering solutions.
+
 - 📫 How to reach me https://www.linkedin.com/in/dkujawski/
 
 <!---
